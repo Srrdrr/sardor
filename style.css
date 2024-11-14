@@ -1,0 +1,85 @@
+.block{
+    padding: 58px 140px 133px 140px;
+}
+
+.red{
+    background-color: gray;
+    padding: 46px 80px 79px 80px;
+    border-radius: 40px;
+}
+
+.box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.niga{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    color: antiquewhite;
+    margin-bottom: 68px;
+}
+
+.img-content{
+    width: 400px;
+    height: 200px;
+}
+
+.jake{
+    background-color: black;
+    color: antiquewhite;
+    width:264px;
+    height:118px;
+    text-align: center;
+    border-radius:40px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.class{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nerd{
+    display:flex;
+    justify-content: space-between;
+    
+}
+.luka{
+    font-size: 12px;
+    width: 300px;
+    height:109px;
+    background-color: rgb(50, 159, 50);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 20px solid red;
+    border-radius: 30px;
+}
+.luka p{
+    text-align: center;
+}
+.clare{
+    font-size: 12px;
+    width: 300px;
+    height:109px;
+    background-color: rgb(50, 159, 50);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 20px solid red;
+    border-radius: 30px;
+}
+.clare p{
+    text-align: center;
+}
+.fark{
+    display: flex;
+    justify-content: space-between;
+}
